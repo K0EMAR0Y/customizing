@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"MAR",
+    "NAME1":"Aasdgf",
+    "CNTRY":"DE",
+    "NAME2":"Gfdsa",
+    "LANGU":"D",
+    "STRET":"Lindenstraße",
+    "POBOX":"",
+    "PSTLC":"",
+    "CITY":"Heidelberg",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
